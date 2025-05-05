@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 项目特定
+output/
+uploads/
+*.log
+*.pt
+*.pth
+*.weights
+
+# 环境
+.env
+.venv
+env/
+venv/
+ENV/
+
+# 系统
+.DS_Store
+Thumbs.db 

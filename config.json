@@ -1,0 +1,9 @@
+{
+  "model_path": "train\\runs\\train\\exp32\\weights\\best.pt",
+  "input_image_path": "input\\input_image\\",
+  "input_video_path": "input\\input_video\\",
+  "output_path": "output\\",
+  "output_image_path": "output\\output_image\\",
+  "output_video_path": "output\\output_video\\",
+  "image_size": 640
+}
